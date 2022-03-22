@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 
-asdasdasdasdasdasdassadadsd rebase example
+asdasdasdasdasdasdassadadsd rebase example, then more changes for my feature branch too
 
 ## Purpose
 
