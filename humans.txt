@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Patryk Góra 	patryk111g@wp.pl
 
 # THANKS
 
