@@ -10,6 +10,9 @@ Sample website with plenty of files for demos
 
 Uga buga test
 
+## How to contribute 
+
+Please for this repository and then issue Pull request for review.
 ## Copyright
 
 Papłyk
