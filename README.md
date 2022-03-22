@@ -17,4 +17,4 @@ Uga buga test
 Please for this repository and then issue Pull request for review.
 ## Copyright
 
-Papłyk
+Papłyk ALl rights reserved
